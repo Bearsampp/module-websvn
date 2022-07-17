@@ -1,7 +1,7 @@
 <?php
 
 
-$config->parentPath('~NEARD_LIN_PATH~/svnrepos');
+$config->parentPath('~BEARSAMPP_LIN_PATH~/svnrepos');
 
 $config->addTemplatePath($locwebsvnreal.'/templates/calm/');
 $config->addTemplatePath($locwebsvnreal.'/templates/BlueGrey/');
@@ -19,4 +19,4 @@ set_time_limit(0);
 
 $config->expandTabsBy(8);
 
-$config->setTempDir('~NEARD_LIN_PATH~/tmp');
+$config->setTempDir('~BEARSAMPP_LIN_PATH~/tmp');
