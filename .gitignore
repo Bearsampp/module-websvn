@@ -3,3 +3,10 @@
 
 # Bearsampp
 /.dev
+/.idea/.gitignore
+/.idea/deployment.xml
+/.idea/discord.xml
+/.idea/module-websvn.iml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/vcs.xml
